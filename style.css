@@ -11,12 +11,12 @@
 .typebot-container {
   background-color: #f7f3ef;
   background-size: 450px;
-  background-image: url(//cdn.jsdelivr.net/gh/packtypebot/template/fundo-light.svg);
+  background-image: url(//cdn.jsdelivr.net/gh/tracksemfim/sss/fundo-light.svg);
 }
 .typebot-container.dark {
   background-color: #081418;
   background-size: 450px;
-  background-image: url(//cdn.jsdelivr.net/gh/packtypebot/template/fundo-dark.svg);
+  background-image: url(//cdn.jsdelivr.net/gh/tracksemfim/sss/fundo-dark.svg);
 }
 * {
   -webkit-touch-callout: none;
@@ -62,7 +62,7 @@
   content: "";
   display: block;
   position: absolute;
-  background-image: url(//cdn.jsdelivr.net/gh/packtypebot/template/emoji-light.svg);
+  background-image: url(//cdn.jsdelivr.net/gh/tracksemfim/sss/emoji-light.svg);
   background-repeat: no-repeat;
   width: 28px;
   height: 28px;
@@ -71,13 +71,13 @@
   transform: translate(50%, -50%);
 }
 .dark .typebot-input-container > .typebot-input:has(> input)::before {
-  background-image: url(//cdn.jsdelivr.net/gh/packtypebot/template/emoji-dark.svg) !important;
+  background-image: url(//cdn.jsdelivr.net/gh/tracksemfim/sss/emoji-dark.svg) !important;
 }
 .typebot-input-container > .typebot-input::after {
   content: "";
   display: block;
   position: absolute;
-  background-image: url(//cdn.jsdelivr.net/gh/packtypebot/template/clip.svg);
+  background-image: url(//cdn.jsdelivr.net/gh/tracksemfim/sss/clip.svg);
   background-repeat: no-repeat;
   width: 28px;
   height: 28px;
@@ -105,7 +105,7 @@
 .typebot-input-container > .typebot-input button::before {
   content: "";
   display: block;
-  background-image: url(//cdn.jsdelivr.net/gh/packtypebot/template/enviar.svg);
+  background-image: url(//cdn.jsdelivr.net/gh/tracksemfim/sss/enviar.svg);
   background-repeat: no-repeat;
   background-position-x: center;
   background-position-y: center;
@@ -205,7 +205,7 @@
   content: "";
   display: block;
   position: absolute;
-  background-image: url(//cdn.jsdelivr.net/gh/packtypebot/template/emoji-light.svg);
+  background-image: url(//cdn.jsdelivr.net/gh/tracksemfim/sss/emoji-light.svg);
   background-repeat: no-repeat;
   width: 28px;
   height: 28px;
@@ -217,13 +217,13 @@
   .typebot-input-container
   > .typebot-input-form
   .typebot-input:not(:has(> .typebot-country-select))::before {
-  background-image: url(//cdn.jsdelivr.net/gh/packtypebot/template/emoji-dark.svg) !important;
+  background-image: url(//cdn.jsdelivr.net/gh/tracksemfim/sss/emoji-dark.svg) !important;
 }
 .typebot-input-container > .typebot-input-form .typebot-input::after {
   content: "";
   display: block;
   position: absolute;
-  background-image: url(//cdn.jsdelivr.net/gh/packtypebot/template/clip.svg);
+  background-image: url(//cdn.jsdelivr.net/gh/tracksemfim/sss/clip.svg);
   background-repeat: no-repeat;
   width: 28px;
   height: 28px;
@@ -301,7 +301,7 @@
   content: "";
   display: block;
   position: absolute;
-  background-image: url(//cdn.jsdelivr.net/gh/packtypebot/template/check.svg);
+  background-image: url(//cdn.jsdelivr.net/gh/tracksemfim/sss/check.svg);
   width: 18px;
   height: 18px;
   right: -21px;
@@ -444,7 +444,7 @@
   left: -8px;
   width: 8px;
   height: 13px;
-  background-image: url(//cdn.jsdelivr.net/gh/packtypebot/template/ponta-esquerda-light.svg);
+  background-image: url(//cdn.jsdelivr.net/gh/tracksemfim/sss/ponta-esquerda-light.svg);
 }
 .scrollable-container
   .typebot-chat-chunk
@@ -463,7 +463,7 @@
   right: -8px;
   width: 8px;
   height: 13px;
-  background-image: url(//cdn.jsdelivr.net/gh/packtypebot/template/ponta-direita-light.svg);
+  background-image: url(//cdn.jsdelivr.net/gh/tracksemfim/sss/ponta-direita-light.svg);
 }
 .dark
   .scrollable-container
@@ -486,7 +486,7 @@
   left: -8px;
   width: 8px;
   height: 13px;
-  background-image: url(//cdn.jsdelivr.net/gh/packtypebot/template/ponta-esquerda-dark.svg);
+  background-image: url(//cdn.jsdelivr.net/gh/tracksemfim/sss/ponta-esquerda-dark.svg);
 }
 .dark
   .scrollable-container
@@ -507,7 +507,7 @@
   right: -8px;
   width: 8px;
   height: 13px;
-  background-image: url(//cdn.jsdelivr.net/gh/packtypebot/template/ponta-direita-dark.svg);
+  background-image: url(//cdn.jsdelivr.net/gh/tracksemfim/sss/ponta-direita-dark.svg);
 }
 .bubble-typing,
 .typebot-guest-bubble {
